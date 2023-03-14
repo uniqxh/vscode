@@ -1,6 +1,7 @@
 # vscode
 vscode工具
 # .vscode/c_cpp_properties.json 配置
+```
 {
     "configurations": [
         {
@@ -18,7 +19,9 @@ vscode工具
     ],
     "version": 4
 }
+```
 # .vscode/settings.json 配置
+```
 {
     "Lua.workspace.checkThirdParty": false,
     "files.associations": {
@@ -108,3 +111,4 @@ vscode工具
     "C_Cpp.default.cStandard": "",
     "C_Cpp.default.intelliSenseMode": "gcc-x64"
 }
+```
